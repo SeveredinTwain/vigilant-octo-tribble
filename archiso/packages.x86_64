@@ -109,7 +109,7 @@ mesa
 #opencl-mesa
 #primus
 #vulkan-intel
-#vulkan-radeon
+vulkan-radeon
 
 #base and base-devel
 base-devel
@@ -236,7 +236,7 @@ gimp
 #guvcview
 imagemagick
 inkscape
-#libreoffice-fresh
+libreoffice-fresh
 meld
 #nitrogen
 numlockx
@@ -471,11 +471,11 @@ yay-bin
 #Games
 #############################
 
-#steam
-#steam-native-runtime
-#lutris
+steam
+steam-native-runtime
+lutris
 #sauerbraten
-#xonotic
+xonotic
 
 
 #############################
